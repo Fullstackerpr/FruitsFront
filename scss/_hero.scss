@@ -10,8 +10,9 @@
         max-width: 530px;
         width: 100%;
         p{
+            font-family: 'Yellowtail', cursive;
             color: $bg-sy;
-            font-size: 30px;
+            font-size: 36px;
         }
         h1{
             font-size: 70px;
@@ -33,6 +34,10 @@
         }
         h1 {
             font-size: 32px;
+        }
+        button {
+            padding: 24px 40px;
+            font-size: 16px;
         }
     }
 }

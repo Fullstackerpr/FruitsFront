@@ -5,9 +5,11 @@
     color: $cl;
     font-size: 20px;
     font-weight: bold;
-    transition: .025s ease-in;
-    &:hover {
-        opacity: -8;
-        cursor: pointer;
-    }
+    // transition: .025s ease-in;
+    // &:hover {
+    //     opacity: -8;
+    //     cursor: pointer;
+    //     background-color: yellow;
+
+    // }
 }
